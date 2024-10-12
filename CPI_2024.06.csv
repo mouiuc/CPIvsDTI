@@ -1,0 +1,51 @@
+state,CPI_Jun2024_12m,Region
+Alabama,2.9,South Region
+Alaska,1.5,Anchorage (otherwise West Region)
+Arizona,2.7,Phoenix (otherwise West Region)
+Arkansas,2.9,South Region
+California,3.2,L.A. (otherwise West Region)
+Colorado,2.8,West Region
+Connecticut,3.8,Northeast Region
+Delaware,3.6,Wilmington (otherwise South Region)
+Florida,3.5,Miami (otherwise South Region)
+Georgia,2.6,Atlanta (otherwise South region)
+Hawaii,5.2,Honolulu (otherwise West Region)
+Idaho,2.8,West Region
+Illinois,3,Chicago (otherwise Midwest Region)
+Indiana,2.5,Midwest Region
+Iowa,2.5,Midwest Region
+Kansas,2.5,Midwest Region
+Kentucky,2.9,South Region
+Louisiana,2.9,South Region
+Maine,3.8,Northeast Region
+Maryland,3,Baltimore (otherwise South Region)
+Massachusetts,4,Boston (otherwise Northeast Region)
+Michigan,3.4,Detroit (otherwise Midwest Region)
+Minnesota,2.6,Minneapolis (otherwise Midwest Region)
+Mississippi,2.9,South Region
+Missouri,2.5,Midwest Region
+Montana,2.8,West Region
+Nebraska,2.5,Midwest Region
+Nevada,2.8,West Region
+New Hampshire,3.8,Northeast Region
+New Jersey,4.2,Newark (otherwise Northeast Region)
+New Mexico,2.8,West Region
+New York,4.2,New York
+North Carolina,2.9,South Region
+North Dakota,2.5,Midwest Region
+Ohio,2.5,Midwest Region
+Oklahoma,2.9,South Region
+Oregon,2.8,West Region
+Pennsylvania,3.6,Philadelphia (otherwise Northeast Region)
+Rhode Island,3.8,Northeast Region
+South Carolina,2.9,South Region
+South Dakota,2.5,Midwest Region
+Tennessee,2.9,South Region
+Texas,2.9,South Region
+Utah,2.8,West Region
+Vermont,3.8,Northeast Region
+Virginia,3.3,Washington-Arling (otherwise South Region)
+Washington,3.8,Seattle (otherwise West Region)
+West Virginia,2.9,South Region
+Wisconsin,2.5,Midwest Region
+Wyoming,2.8,West Region

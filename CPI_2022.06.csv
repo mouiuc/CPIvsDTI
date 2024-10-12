@@ -1,0 +1,51 @@
+state,CPI_Jun2022_12m,Region
+Alabama,9.8,South Region
+Alaska,7.6,Anchorage (otherwise West Region)
+Arizona,12.3,Phoenix (otherwise West Region)
+Arkansas,9.8,South Region
+California,8.6,L.A. (otherwise West Region)
+Colorado,8.8,West Region
+Connecticut,7.6,Northeast Region
+Delaware,8.8,Wilmington (otherwise South Region)
+Florida,10.1,Miami (otherwise South Region)
+Georgia,11.5,Atlanta (otherwise South region)
+Hawaii,7,Honolulu (otherwise West Region)
+Idaho,8.8,West Region
+Illinois,8.9,Chicago (otherwise Midwest Region)
+Indiana,9.5,Midwest Region
+Iowa,9.5,Midwest Region
+Kansas,9.5,Midwest Region
+Kentucky,9.8,South Region
+Louisiana,9.8,South Region
+Maine,7.6,Northeast Region
+Maryland,10.6,Baltimore (otherwise South Region)
+Massachusetts,7.5,Boston (otherwise Northeast Region)
+Michigan,9.7,Detroit (otherwise Midwest Region)
+Minnesota,8.7,Minneapolis (otherwise Midwest Region)
+Mississippi,9.8,South Region
+Missouri,9.5,Midwest Region
+Montana,8.8,West Region
+Nebraska,9.5,Midwest Region
+Nevada,8.8,West Region
+New Hampshire,7.6,Northeast Region
+New Jersey,6.7,Newark (otherwise Northeast Region)
+New Mexico,8.8,West Region
+New York,6.7,New York
+North Carolina,9.8,South Region
+North Dakota,9.5,Midwest Region
+Ohio,9.5,Midwest Region
+Oklahoma,9.8,South Region
+Oregon,8.8,West Region
+Pennsylvania,8.8,Philadelphia (otherwise Northeast Region)
+Rhode Island,7.6,Northeast Region
+South Carolina,9.8,South Region
+South Dakota,9.5,Midwest Region
+Tennessee,9.8,South Region
+Texas,9.8,South Region
+Utah,8.8,West Region
+Vermont,7.6,Northeast Region
+Virginia,7.5,Washington-Arling (otherwise South Region)
+Washington,10.1,Seattle (otherwise West Region)
+West Virginia,9.8,South Region
+Wisconsin,9.5,Midwest Region
+Wyoming,8.8,West Region
